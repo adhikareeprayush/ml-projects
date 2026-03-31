@@ -9,3 +9,4 @@ A collection of machine learning projects demonstrating various prediction model
 - **predict-customer-churn** - Customer churn prediction
 - **purchasing-accuracy** - Purchasing accuracy model
 - **tmdb-predict** - TMDB movie rating prediction
+- **spam-detection** - Spam email detection using Naive Bayes
